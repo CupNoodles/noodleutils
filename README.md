@@ -2,7 +2,7 @@
 
 ### Usage
 
-Clone this repo into `extensions/cupnoodles/noodleutil` and then run a `composer install`. 
+Clone this repo into `extensions/cupnoodles/noodleutils` and then run a `composer install`. 
 
 ### Asset watcher
 
