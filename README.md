@@ -1,5 +1,8 @@
 ## CupNoodles Utility Commands for TastyIgniter
 
+### Usage
+
+Clone this repo into `extensions/cupnoodles/noodleutil` and then run a `composer install`. 
 
 ### Asset watcher
 
