@@ -1,0 +1,26 @@
+{
+    "name": "cupnoodles/ti-ext-noodleutils",
+    "type": "tastyigniter-extension",
+    "description": "Noodles Utils.",
+    "authors": [
+      {
+        "name": "CupNoodles"
+      }
+    ],
+    "extra": {
+      "tastyigniter-extension": {
+        "code": "cupnoodles.noodleutils",
+        "name": "Noodle Utils",
+        "icon": {
+          "class": "fa fa-wrench",
+          "color": "#fff",
+          "backgroundColor": "#000"
+        },
+        "require": {
+        }
+      }
+    },
+    "require": {
+        "jasonlewis/resource-watcher": "^1.2"
+    }
+}

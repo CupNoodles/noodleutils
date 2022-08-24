@@ -1,0 +1,12 @@
+{
+    "code": "cupnoodles.ti-ext-noodleutils",
+    "name": "CupNoodles dev util commands",
+    "description": "CupNoodles development utilities",
+    "version": "v1.0.0",
+    "author": "CupNoodles",
+    "icon": {
+      "class": "fa fa-wrench",
+      "backgroundColor": "#000",
+      "color": "#fff"
+    }
+}
