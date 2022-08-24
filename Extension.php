@@ -8,6 +8,7 @@ use System\ServiceProvider;
 
 
 
+
 class Extension extends BaseExtension
 {
 
@@ -23,8 +24,5 @@ class Extension extends BaseExtension
             'noodle.watch', \CupNoodles\NoodleUtils\Console\Watch::class
         );
 
-        $this->registerConsoleCommand(
-            'noodle.tailwind', \CupNoodles\NoodleUtils\Console\TailwindCompiler::class
-        );
     }
 }
